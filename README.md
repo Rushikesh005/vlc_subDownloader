@@ -11,21 +11,24 @@ https://github.com/Rushikesh005/vlc_subDownloader/archive/master.zip
 
 Prerequisites
 =============
-note: 1.You need to have python 2.7 and vlc installed on your machine.
+      
+      1.You need to have python 2.7 and vlc installed on your machine.
 
       2.Supported operating systems are windows xp,vista,7,8 and 8.1 etc
 
       3.pyqt should be installed on your system.
-       You can download pyqt4 at:
-       http://www.riverbankcomputing.com/software/pyqt/download
+      You can download pyqt4 at:http://www.riverbankcomputing.com/software/pyqt/download
 
+Linux support
+============
+For linux support, refer [VLC with Subs](https://github.com/theGreatHeisenberg/VLC-With-Subtitles/)
+      
 Installation
 ============
-
-It's a python script so there is no need of any installation.But
-Step 1:Extract zip to convenient location.
-Step 2:Open desired video with vlc_sub.cmd.
-Step 3:You can set default player as vlc_sub.cmd.
+      It's a python script so there is no need of any installation
+      Step 1:Extract zip to convenient location.
+      Step 2:Open desired video with vlc_sub.cmd.
+      Step 3:You can set default player as vlc_sub.cmd.
 
 
 Optional installations:
@@ -48,6 +51,4 @@ Contact
  * Initial commits are done in the git repository at,
    https://github.com/Rushikesh005/vlc_subDownloader
 
-If you have any hints, changes or improvements, please contact:
-
- * Rushikesh Patil rushikesh.patil003@gmail.com
+*  If you have any hints, changes or improvements, please contact: [Rushikesh Patil](rushikesh.patil003@gmail.com)
